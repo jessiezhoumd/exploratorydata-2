@@ -57,3 +57,11 @@ For each plot you should
 - Create a separate R code file that constructs the corresponding plot, i.e. code in plot1.R constructs the plot1.png plot. Your code file should include code for reading the data so that the plot can be fully reproduced. You must also include the code that creates the PNG file. Only include the code for a single plot (i.e. plot1.R should only include code for producing plot1.png)
 - Upload the PNG file on the Assignment submission page
 - Copy and paste the R code from the corresponding R file into the text box at the appropriate point in the peer assessment.
+
+# Submission
+- Question 1: Plot1.R, Plot1.png
+- Question 2: Plot2.R, Plot2.png
+- Question 3: Plot3.R, Plot3.png
+- Question 4: Plot4.R, Plot4.png
+- Question 5: Plot5.R, Plot5.png
+- Question 6: Plot6.R, Plot6.png
